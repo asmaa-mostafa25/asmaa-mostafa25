@@ -7,8 +7,11 @@ A passionate **Backend .NET Developer** from Egypt 🇪🇬
 ## 🧑‍💻 About Me
 
 [![RazorAuthPortal](https://img.shields.io/badge/RazorAuthPortal-ASP.NET%20MVC-blue?style=for-the-badge)](https://github.com/hvr33/RazorAuthPortal)  
+[![ECOMMERCEAPI](https://img.shields.io/badge/ECOMMERCEAPI-.NET%20API-purple?style=for-the-badge)](https://github.com/hvr33/ECOMMERCEAPI)  
+[![EcommerceMVC](https://img.shields.io/badge/EcommerceMVC-MVC%20Project-orange?style=for-the-badge)](https://github.com/hvr33/EcommerceMVC)  
 [![Learning](https://img.shields.io/badge/Learning-.NET%208-green?style=for-the-badge)](https://dotnet.microsoft.com/)  
 [![Collab](https://img.shields.io/badge/Collab-Open%20Source-yellow?style=for-the-badge)](https://github.com)  
+
 
 💬 Ask me about:  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
