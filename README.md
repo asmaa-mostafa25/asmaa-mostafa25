@@ -6,14 +6,22 @@ A passionate **Backend .NET Developer** from Egypt 🇪🇬
 
 ## 🧑‍💻 About Me
 
-🔭 I’m currently working on **RazorAuthPortal**, a learning project for **ASP.NET Core MVC**, Identity, and EF Core.  
-🌱 I’m currently learning advanced **.NET 8 features, EF Core migrations, authentication & authorization patterns**.  
-👯 I’m looking to collaborate on **Open Source .NET Backend Projects**.  
-💬 Ask me about **C#, ASP.NET Core MVC, EF Core, SQL Server, API, ADO.NET, Desktop Apps, OOP, C++, HTML, Java**.  
-📫 Reach me at: `asmaalnager1872004@gmail.com`  
-⚡ Fun fact: I can reset a password flow in **less than 5 minutes** without breaking the database 😎  
+[![RazorAuthPortal](https://img.shields.io/badge/RazorAuthPortal-ASP.NET%20MVC-blue?style=for-the-badge)](https://github.com/hvr33/RazorAuthPortal)  
+[![Learning](https://img.shields.io/badge/Learning-.NET%208-green?style=for-the-badge)](https://dotnet.microsoft.com/)  
+[![Collab](https://img.shields.io/badge/Collab-Open%20Source-yellow?style=for-the-badge)](https://github.com)  
 
----
+💬 Ask me about:  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white) 
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge) 
+![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![API](https://img.shields.io/badge/API-008080?style=for-the-badge) 
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)  
+![Desktop](https://img.shields.io/badge/Desktop%20Apps-6A5ACD?style=for-the-badge)  
+
+📫 Reach me at: `asmaalnager1872004@gmail.com`  
+
+⚡ Fun fact: I can reset a password flow in **less than 5 minutes** without breaking the database 😎
 
 ## 🛠️ Tech Stack
 
