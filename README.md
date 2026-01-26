@@ -32,7 +32,7 @@ A passionate **Backend .NET Developer** from Egypt 🇪🇬
 
 ![Asmaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvr33&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvr33&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hvr33&theme=dark)  
+  
 
 ---
 
