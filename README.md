@@ -6,6 +6,7 @@ I build clean, secure REST APIs, and I'm leading a 9-member team on <a href="htt
 </p>
 
 <p align="center">
+<a href="https://asmaa-mostafa25.github.io"><img src="https://img.shields.io/badge/Portfolio-asmaa--mostafa25.github.io-d81b60?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/asmaa-alnager"><img src="https://img.shields.io/badge/LinkedIn-asmaa--alnager-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:asmaaalnager2332004@gmail.com"><img src="https://img.shields.io/badge/Email-asmaaalnager2332004%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Open%20to-Junior%20.NET%20roles%20%26%20internships-1fa64a" alt="Open to work">
