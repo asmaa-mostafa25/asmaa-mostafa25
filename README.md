@@ -68,6 +68,7 @@ I started the project, wrote the requirements and database design, built the Rea
 
 - **Full Stack .NET Developer Trainee** — Digital Egypt Pioneers Initiative (DEPI) · Nov 2025 – Jul 2026
 - **Backend .NET Developer Trainee** — CodeWay Mentorship Program, Mansoura · 2024
+- **Backend .NET Development Diploma** — Information Technology Institute (ITI) Affiliate · Feb – Oct 2025
 - **Backend – ASP.NET Web Development** — International Professionalism Academy (IPA) · 120 h · distinction · Oct 2025
 - **Web Designer Track** — National Telecommunication Institute (NTI) · 120 h · Jul – Aug 2025
 - **B.Sc. Communications & Computer Engineering** — Higher Institute of Engineering and Technology, Tanta · expected 2027
